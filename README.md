@@ -20,9 +20,9 @@ OpenCore config for my PC
 ## Software
 
 * OpenCore 
- * URL: https://github.com/acidanthera/OpenCorePkg
- * Version: `0.5.7`
- * Removed:
+  * URL: https://github.com/acidanthera/OpenCorePkg
+  * Version: `0.5.7`
+  * Removed:
     * `Drivers/HiiDatabase.efi`
     * `Drivers/NvmExpressDxe.efi`
     * `Drivers/XhciDxe.efi`
@@ -35,8 +35,8 @@ OpenCore config for my PC
     * `Drivers/AudioDxe.efi`
 
 * Lilu
- * URL: https://github.com/acidanthera/Lilu
- * Version: `1.4.3`
+  * URL: https://github.com/acidanthera/Lilu
+  * Version: `1.4.3`
 
 * VirtualSMC
   * URL: https://github.com/acidanthera/VirtualSMC
