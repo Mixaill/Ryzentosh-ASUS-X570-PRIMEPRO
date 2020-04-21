@@ -8,7 +8,7 @@ OpenCore config for my PC
 
 ## Hardware
 
-* CPU: AMD Ryzen 370X
+* CPU: AMD Ryzen 3700X
 * Motherboard: ASUS PRIME X570-PRO
 * GPU: XFX AMD Radeon 5700XT (reference)
 * Ethernet: Intel I211-AT
