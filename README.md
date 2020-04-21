@@ -2,6 +2,10 @@
 
 OpenCore config for my PC
 
+## What does not work
+
+* Sleep
+
 ## Hardware
 
 * CPU: AMD Ryzen 370X
