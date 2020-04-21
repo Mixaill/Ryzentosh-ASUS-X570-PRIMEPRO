@@ -1,6 +1,6 @@
 # Ryzentosh @ ASUS PRIME X570-PRO
 
-OpenCore config for my PC
+OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 
 ## What does not work
 
