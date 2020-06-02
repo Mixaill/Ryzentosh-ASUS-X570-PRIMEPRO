@@ -11,6 +11,7 @@ OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 
 * CPU: AMD Ryzen 3700X
 * Motherboard: ASUS PRIME X570-PRO
+* Memory: Crucial Ballistix 2x16GB BL2K16G30C15U4W
 * GPU: XFX AMD Radeon 5700XT (reference)
 * Ethernet: Intel I211-AT
 * Audio: Focusrite Scarlett 4i4 3rdgen
