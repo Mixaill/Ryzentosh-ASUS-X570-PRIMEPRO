@@ -23,7 +23,7 @@ OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 
 ### Audio stuttering and crackling
 
-* Switch PCIe slot with PCIe Gen.4 GPU to the 3.0 mode. It helps a lot
+* Switch PCIe slot with PCIe Gen.4 GPU to the 3.0 mode. It helps a lot. If you do not have this setting, make sure you are using the latest version of UEFI.
 
 ### macOS fails to load
 
