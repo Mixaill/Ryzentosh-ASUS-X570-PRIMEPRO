@@ -4,6 +4,7 @@ OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 
 ## What does not work
 
+* Internal Audio (I am using the external USB card, so, I don't care about it)
 * Sleep
 
 ## Hardware
@@ -16,6 +17,14 @@ OpenCore config for Zen2 and ASUS Prime X570-PRO based installations.
 * NVME: Samsung 970 Evo Plus 500GB
 * SATA: Samsung 860 Evo 1TB
 * SATA: Samsung 850 Evo 1TB
+
+## Tips and tricks
+
+### Audio stuttering and crackling
+
+* Switch PCIe slot with PCIe Gen.4 GPU to the 3.0 mode. It helps a lot
+
+* If macOS loading hangs, please check that you have `npci=0x2000` in `NVRAM/boot-args` section.
 
 ## ACPI
 
